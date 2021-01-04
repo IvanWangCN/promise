@@ -1,1 +1,1 @@
-# promise
+# https://wxj.gitbook.io/promise/
